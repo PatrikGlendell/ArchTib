@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archibia", "Archibia.csproj", "{D246FAB6-3A32-DE73-1A11-7AF2F0777481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archibia.Editor", "Archibia.Editor.csproj", "{9CBF4EA8-023C-160F-F613-6724D10EEEA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D246FAB6-3A32-DE73-1A11-7AF2F0777481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D246FAB6-3A32-DE73-1A11-7AF2F0777481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D246FAB6-3A32-DE73-1A11-7AF2F0777481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D246FAB6-3A32-DE73-1A11-7AF2F0777481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBF4EA8-023C-160F-F613-6724D10EEEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBF4EA8-023C-160F-F613-6724D10EEEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBF4EA8-023C-160F-F613-6724D10EEEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBF4EA8-023C-160F-F613-6724D10EEEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
